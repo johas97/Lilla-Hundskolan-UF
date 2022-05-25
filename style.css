@@ -1,0 +1,11 @@
+body {
+
+    background-color: #fef6ad;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30rem;
+}
